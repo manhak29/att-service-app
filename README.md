@@ -1,7 +1,3 @@
-Here’s the **README** content in plain text format:
-
----
-
 ## AT&T Customer Service Dashboard
 
 This is a mockup of a customer service dashboard for AT&T, designed to help manage customer inquiries, support tickets, and other customer service-related tasks. The app includes features such as searching for customers, viewing customer details, and submitting support tickets.
