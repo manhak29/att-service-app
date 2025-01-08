@@ -8,7 +8,7 @@ const app = express();
 
 // Middleware
 app.use(bodyParser.json());
-app.use(cors());
+app.use(cors()); 
 
 // Connect to MongoDB
 mongoose.connect('mongodb://127.0.0.1:27017/att_service', {
